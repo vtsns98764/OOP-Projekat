@@ -1,0 +1,15 @@
+D:\Skola\programiranje\Projekat2\Projekat\Projekat\bin\Debug\net6.0\Projekat.exe
+D:\Skola\programiranje\Projekat2\Projekat\Projekat\bin\Debug\net6.0\Projekat.deps.json
+D:\Skola\programiranje\Projekat2\Projekat\Projekat\bin\Debug\net6.0\Projekat.runtimeconfig.json
+D:\Skola\programiranje\Projekat2\Projekat\Projekat\bin\Debug\net6.0\Projekat.dll
+D:\Skola\programiranje\Projekat2\Projekat\Projekat\bin\Debug\net6.0\Projekat.pdb
+D:\Skola\programiranje\Projekat2\Projekat\Projekat\obj\Debug\net6.0\Projekat.csproj.AssemblyReference.cache
+D:\Skola\programiranje\Projekat2\Projekat\Projekat\obj\Debug\net6.0\Projekat.GeneratedMSBuildEditorConfig.editorconfig
+D:\Skola\programiranje\Projekat2\Projekat\Projekat\obj\Debug\net6.0\Projekat.AssemblyInfoInputs.cache
+D:\Skola\programiranje\Projekat2\Projekat\Projekat\obj\Debug\net6.0\Projekat.AssemblyInfo.cs
+D:\Skola\programiranje\Projekat2\Projekat\Projekat\obj\Debug\net6.0\Projekat.csproj.CoreCompileInputs.cache
+D:\Skola\programiranje\Projekat2\Projekat\Projekat\obj\Debug\net6.0\Projekat.dll
+D:\Skola\programiranje\Projekat2\Projekat\Projekat\obj\Debug\net6.0\refint\Projekat.dll
+D:\Skola\programiranje\Projekat2\Projekat\Projekat\obj\Debug\net6.0\Projekat.pdb
+D:\Skola\programiranje\Projekat2\Projekat\Projekat\obj\Debug\net6.0\Projekat.genruntimeconfig.cache
+D:\Skola\programiranje\Projekat2\Projekat\Projekat\obj\Debug\net6.0\ref\Projekat.dll
